@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "欢迎来到我的主页，在这个主页中，我将为大家简单介绍《钢铁雄心4》这款战略游戏"
+title: "hello world"
 author_profile: true
 redirect_from: 
   - /about/
