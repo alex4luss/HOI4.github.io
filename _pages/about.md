@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "欢迎来到我的主页，在这个主页中，我将为大家简单介绍《钢铁雄心4》这款战略游戏"
 author_profile: true
 redirect_from: 
   - /about/
